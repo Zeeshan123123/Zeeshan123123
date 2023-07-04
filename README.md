@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeeshan123123
 - 👀 I’m interested in providing solutions to the problems.
-- 🌱 I’m currently Php Laravel & Vuejs developer.
+- 🌱 My skills are Php Laravel, Vuejs and MERN Stack development.
 - 💞️ I’m looking to collaborate on projects and excited to be part of the team. 
 - 📫 You can reach me with following:
 -    Email: zeeshanniaz736@gmail.com
